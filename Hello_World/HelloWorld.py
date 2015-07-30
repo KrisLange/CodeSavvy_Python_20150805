@@ -1,6 +1,6 @@
 ################################################################################
 ##                                                                            ##
-##   Title:     Hello_World.py                                                ##
+##   Title:     HelloWorld.py                                                 ##
 ##   Author:    Kris Lange                                                    ##
 ##                                                                            ##
 ##   Description: Introductory Hello World Program in Python3                 ##
