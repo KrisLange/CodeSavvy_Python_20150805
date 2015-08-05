@@ -5,8 +5,7 @@
 ##                                                                            ##
 ##   Description: A simple, text-based number guessing game                   ##
 ##                    Asks player to guess a number until the                 ##
-##                    player guesses correctly or types "quit"                ##
-##                    into the console                                        ##
+##                    player guesses correctly                                ##
 ##                                                                            ##
 ################################################################################
 
